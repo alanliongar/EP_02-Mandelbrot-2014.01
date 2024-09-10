@@ -19,8 +19,8 @@
 
 Um fractal é um objeto geométrico que pode ser dividido em partes, cada uma das quais semelhante ao
 objeto original. Fractais são muito usados em arte gerada por computador. O objetivo deste EP é fazer
-programas em linguagem C, para gerar imagens (nos formatos PGM e PPM) com desenhos derivados do
-conjunto de Mandelbrot.<br>
+programas em linguagem C, para gerar imagens (nos <b><a href="http://www.vision.ime.usp.br/~pmiranda/mac110_1s14/EPs/ep02/pgm_ppm.pdf">formatos PGM e PPM</a></b>) com desenhos derivados do
+conjunto de Mandelbrot.<br><br>
 Conjunto de Mandelbrot:<br>
 Em matemática, conjunto de Mandelbrot é um fractal definido como o conjunto de pontos c no plano
 complexo para o qual a sequência definida pela seguinte fórmula de recorrência:<br>
