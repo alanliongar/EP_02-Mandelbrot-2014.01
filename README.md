@@ -12,7 +12,7 @@
     <br>
   </h2>
 </center>
-
+<img src="https://github.com/user-attachments/assets/a346d8f8-214f-4c3e-87d8-86738f38f164" width="700"/><br>
 Um fractal é um objeto geométrico que pode ser dividido em partes, cada uma das quais semelhante ao
 objeto original. Fractais são muito usados em arte gerada por computador. O objetivo deste EP é fazer
 programas em linguagem C, para gerar imagens (nos <b><a href="http://www.vision.ime.usp.br/~pmiranda/mac110_1s14/EPs/ep02/pgm_ppm.pdf">formatos PGM e PPM</a></b>) com desenhos derivados do
