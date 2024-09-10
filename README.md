@@ -1,8 +1,5 @@
-# EP_02-Mandelbrot
+# EP_02-Mandelbrot - 05/06/2014
 <html>
-<head>
-  <h1>Data da entrega: <b>18/04/2014</b></h1>
-</head>
 <body>
 <center>
   <h2>MAC110 - Introdução à Computação
