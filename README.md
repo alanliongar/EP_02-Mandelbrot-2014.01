@@ -1,10 +1,9 @@
 # EP_02-Mandelbrot
 <html>
 <head>
-  EP01: Problema do Silvio Santos
+  <h1>Data da entrega: <b>18/04/2014</b></h1>
 </head>
 <body>
-
 <center>
   <h2>MAC110 - Introdução à Computação
     <br>
